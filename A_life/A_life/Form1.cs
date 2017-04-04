@@ -16,5 +16,17 @@ namespace A_life
         {
             InitializeComponent();
         }
+    
+        private void fieldSettingsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FieldSettings dlg = new FieldSettings();
+            dlg.ShowDialog();
+        }
+
+        private void agentsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AgentsSettings dlg = new AgentsSettings();
+            dlg.ShowDialog();
+        }
     }
 }

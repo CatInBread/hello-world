@@ -1,1 +1,11 @@
 D:\Project\A_life\A_life\bin\Debug\A_life.exe.config
+D:\Project\A_life\A_life\bin\Debug\A_life.exe
+D:\Project\A_life\A_life\bin\Debug\A_life.pdb
+D:\Project\A_life\A_life\obj\Debug\A_life.csprojResolveAssemblyReference.cache
+D:\Project\A_life\A_life\obj\Debug\A_life.Properties.Resources.resources
+D:\Project\A_life\A_life\obj\Debug\A_life.csproj.GenerateResource.Cache
+D:\Project\A_life\A_life\obj\Debug\A_life.exe
+D:\Project\A_life\A_life\obj\Debug\A_life.pdb
+D:\Project\A_life\A_life\obj\Debug\A_life.AgentsSettings.resources
+D:\Project\A_life\A_life\obj\Debug\A_life.FieldSettings.resources
+D:\Project\A_life\A_life\obj\Debug\A_life.Form1.resources

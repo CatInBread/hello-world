@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace A_life
 {
-    class Herbivore
+    class Herbivore : Agent
     {
+        public Herbivore() {
+        }
+        public void EatPlant() {
+        }
     }
 }

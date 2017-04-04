@@ -8,6 +8,6 @@ namespace A_life
 {
     class Unit
     {
-
+       private short Energy;
     }
 }

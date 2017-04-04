@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace A_life
 {
-    class Predator : Agent
+    class NeuralNetwork
     {
-        public Predator() {
-        }
-        public void EatHerbivore()
-        {
-
-        }
+        
     }
 }

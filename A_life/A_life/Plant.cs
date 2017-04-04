@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace A_life
 {
-    class Plant
+    class Plant : Unit
     {
     }
 }

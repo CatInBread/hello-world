@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace A_life
 {
-    class Agent
+    class Agent : Unit
     {
+        
     }
 }
